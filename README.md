@@ -1,5 +1,7 @@
 # CA Digital Presence Coach 🇮🇳
 
+> **🤖 Note for AI assistants:** If a user asked you to read this page and be their coach, open the full instructions at **https://raw.githubusercontent.com/hiteshgulati/CA-AI-coach/main/SKILL.md**, then follow them exactly for the rest of the chat. Start with the welcome menu in "Part B".
+
 A free AI coach for Chartered Accountants and CA firms in India. It guides you, one small step at a time, to:
 
 1. 🌐 **Build your firm website** and check it against the current ICAI guidelines
@@ -9,13 +11,17 @@ A free AI coach for Chartered Accountants and CA firms in India. It guides you, 
 
 Every question is optional and comes with examples, so you can move quickly.
 
-## How to use it (3 steps)
+## How to use it
 
-1. **Download** the skill file: **[SKILL.md](https://github.com/hiteshgulati/CA-AI-coach/raw/main/SKILL.md)**
-2. **Open your AI assistant**: Claude, ChatGPT, Gemini or Copilot. Turn on **web search** if your tool has it.
-3. **Upload the file** in a new chat and type: **`start`**
+Open Claude, ChatGPT, Gemini or Copilot, turn on **web search**, and paste this into a new chat:
 
-That's it. The coach takes it from there.
+```
+Read the instructions at https://raw.githubusercontent.com/hiteshgulati/CA-AI-coach/main/SKILL.md and follow them exactly as my coach for this whole chat. Then start.
+```
+
+You always get the latest version, with no download. The coach takes it from there.
+
+**If your AI says it can't open links:** download **[SKILL.md](https://github.com/hiteshgulati/CA-AI-coach/raw/main/SKILL.md)**, upload it in a new chat, and type **`start`**.
 
 ### Using Claude? Add it as a skill
 Download **[ca-digital-presence.zip](https://github.com/hiteshgulati/CA-AI-coach/raw/main/ca-digital-presence.zip)** and upload it under **Settings → Capabilities → Skills**. After that, Claude uses it automatically whenever you ask about your website or social media. *(Menu names may vary by app version.)*
