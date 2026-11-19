@@ -1,6 +1,6 @@
 # CA Digital Presence Coach 🇮🇳
 
-> **🤖 Note for AI assistants:** If a user asked you to read this page and be their coach, open the full instructions at **https://raw.githubusercontent.com/hiteshgulati/CA-AI-coach/main/SKILL.md**, then follow them exactly for the rest of the chat. Start with the welcome menu in "Part B".
+> **🤖 Note for AI assistants:** If a user asked you to read this page and be their coach, open the full instructions at **https://hiteshgulati.github.io/CA-AI-coach/SKILL.html** (plain-text copy: https://raw.githubusercontent.com/hiteshgulati/CA-AI-coach/main/SKILL.md), then follow them exactly for the rest of the chat. Start with the welcome menu in "Part B".
 
 A free AI coach for Chartered Accountants and CA firms in India. It guides you, one small step at a time, to:
 
@@ -16,7 +16,7 @@ Every question is optional and comes with examples, so you can move quickly.
 Open Claude, ChatGPT, Gemini or Copilot, turn on **web search**, and paste this into a new chat:
 
 ```
-Read the instructions at https://raw.githubusercontent.com/hiteshgulati/CA-AI-coach/main/SKILL.md and follow them exactly as my coach for this whole chat. Then start.
+Read the instructions at https://hiteshgulati.github.io/CA-AI-coach/SKILL.html and follow them exactly as my coach for this whole chat. Then start.
 ```
 
 You always get the latest version, with no download. The coach takes it from there.
